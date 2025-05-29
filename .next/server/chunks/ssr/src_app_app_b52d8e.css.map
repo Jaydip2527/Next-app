@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/src/app/app.css"],"sourcesContent":["@import '../../node_modules/@syncfusion/ej2-base/styles/material.css';\n@import '../../node_modules/@syncfusion/ej2-buttons/styles/material.css';\n@import '../../node_modules/@syncfusion/ej2-dropdowns/styles/material.css';\n@import '../../node_modules/@syncfusion/ej2-inputs/styles/material.css';\n@import '../../node_modules/@syncfusion/ej2-navigations/styles/material.css';\n@import '../../node_modules/@syncfusion/ej2-popups/styles/material.css';\n@import '../../node_modules/@syncfusion/ej2-splitbuttons/styles/material.css';\n@import \"../../node_modules/@syncfusion/ej2-react-grids/styles/material.css\";\n@import \"../../node_modules/@syncfusion/ej2-grids/styles/material.css\";\n/* @import \"../../node_modules/@syncfusion/ej2-react-treegrid/styles/material.css\"; */\n/* @import \"@syncfusion/ej2-base/styles/material.css\";\n@import \"@syncfusion/ej2-react-navigations/styles/material.css\"; */\n@import \"@syncfusion/ej2-icons/styles/material.css\";\n@import \"../../node_modules/@syncfusion/ej2-react-kanban/styles/material.css\";\n@import '../../node_modules/@syncfusion/ej2-layouts/styles/material.css';\n@import \"../../node_modules/@syncfusion/ej2-react-calendars/styles/material.css\";\n\n\n\n\n"],"names":[],"mappings":""}},
+    {"offset": {"line": 2, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

@@ -1,0 +1,143 @@
+.organization_branch_main_div {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.organization_branch_card {
+    padding: 20px 14px;
+    box-shadow: 5px 3px 12px 0px #6A6A6A12;
+    border-radius: 6px;
+    gap: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow-x: auto !important;
+}
+
+.branch_title {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.45px;
+    color: var(--secondary-color-theme);
+}
+
+.branch_info_data,
+.contact_info_data,
+.address_info_data {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.45px;
+    text-transform: capitalize;
+    color: var(--light-text-color);
+}
+
+.card_img_sec {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.branch_address_sec {
+    width: 100%;
+    height: auto;
+    max-width: 410px;
+}
+
+.branch_contact_sec {
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+}
+
+.branch_btn_sec {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.branch_modal_body {
+    padding: 20px 15px;
+}
+
+.branch_modal_header {
+    border-bottom: 1px solid rgba(37, 37, 37, 0.1);
+    margin: 18px 15px 0px 15px;
+    padding: 0px;
+    padding-bottom: 18px;
+}
+
+.add_branch_title {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18.8px;
+    color: var(--secondary-color-theme);
+}
+
+.add_branch_save_btn {
+    display: flex;
+    justify-content: flex-end;
+}
+
+@media(min-width:320px) and (max-width:767px) {
+
+    .branch_info_sec {
+        width: 232px;
+    }
+
+    .address_info_data {
+        width: 200px;
+    }
+
+    .contact_info_data {
+        width: 150px;
+    }
+
+    .organization_branch_card {
+        gap: 24px;
+        display: flex;
+        align-items: center;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    
+    .branch_info_sec {
+        width: 232px;
+    }
+
+    .address_info_data {
+        width: 200px;
+    }
+
+    .contact_info_data {
+        width: 150px;
+    }
+
+    .organization_branch_card {
+        gap: 24px;
+        display: flex;
+        align-items: center;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+
+    .branch_info_sec {
+        width: 232px;
+    }
+
+    .address_info_data {
+        width: 400px;
+    }
+
+    .contact_info_data {
+        width: 150px;
+    }
+
+    .organization_branch_card {
+        gap: 24px;
+        display: flex;
+        align-items: center;
+    }
+}

@@ -1,0 +1,51 @@
+.leads_tab_main
+  .e-tab
+  .e-tab-header
+  .e-toolbar-item.e-active.e-ileft
+  .e-tab-text,
+.leads_tab_main
+  .e-tab
+  .e-tab-header
+  .e-toolbar-item.e-active.e-ileft
+  .e-tab-icon {
+  color: var(--white-color) !important;
+}
+
+.leads_tab_main
+  .e-tab
+  .e-tab-header
+  .e-toolbar-item.e-active.e-ileft
+  .e-text-wrap {
+  background: var(--primary-color-theme) !important;
+  color: var(--white-color) !important;
+  padding: 10px !important;
+  border-radius: 10px !important;
+}
+
+.leads_tab_main .e-tab .e-tab-header:not(.e-vertical) .e-indicator {
+  height: 0px !important;
+}
+
+.leads_tab_main .e-tab .e-tab-header::before {
+  padding: 16px !important;
+  // background: #133e871a !important;
+  border-radius: 12px !important;
+  height: 70px !important;
+}
+
+.leads_tab_main .e-tab .e-tab-header {
+  width: 100% !important;
+  height: 70px !important;
+  display: flex !important;
+  align-items: center !important;
+  margin-bottom: 22px !important;
+}
+
+.leads_tab_main .e-tab .e-tab-header .e-toolbar-item .e-tab-text {
+  font-family: Public Sans;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 18.8px;
+  text-transform: capitalize !important;
+  color: #000000 !important;
+}

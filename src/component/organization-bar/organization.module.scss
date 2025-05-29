@@ -1,0 +1,66 @@
+.organization_box_div {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  // height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  row-gap: 30px;
+  //   border-right: 1px solid #F8F9FA;
+}
+.add_organization_div {
+  background: #133E8730;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin: 0 auto;
+  svg {
+    width: 21px;
+    height: 21px;
+    path {
+      fill: #133E87;
+    }
+  }
+}
+.organization_icon {
+  display: block;
+  text-align: center;
+  img {
+    border: 2px solid transparent;
+    border-radius: 6px;
+  }
+}
+.top_box {
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+  align-items: center;
+  height: calc(100vh - 290px);
+  // background: red;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.bottom_box {
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+  align-items: center;
+}
+.action_box {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  background-color: #e6eaf1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  svg path {
+    fill: #133e87;
+  }
+}

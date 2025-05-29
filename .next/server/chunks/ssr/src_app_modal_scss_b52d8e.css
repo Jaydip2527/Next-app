@@ -1,0 +1,36 @@
+/* [project]/src/app/modal.scss.css [app-client] (css) */
+.common_modal_div .modal-content {
+  border: 1px solid #f2f2f2;
+  box-shadow: 5px 4px 32px #acacac12;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.modal-w600 {
+  max-width: 600px;
+}
+
+.modal_header_sec {
+  border-bottom: 1px solid #25252526;
+  padding: 0 0 16px;
+}
+
+.modal_title_text {
+  color: var(--primary-color-theme);
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+.modal_body_sec {
+  padding: 24px 0;
+}
+
+.modal_footer_sec {
+  padding: 0;
+  border-top: 0;
+  column-gap: 14px;
+}
+
+/*# sourceMappingURL=src_app_modal_scss_b52d8e.css.map*/

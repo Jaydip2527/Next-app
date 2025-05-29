@@ -1,0 +1,476 @@
+{
+  "EMPdata": [
+    {
+      "Organizations": "ABC Pvt Ltd",
+      "Location": "Mumbai, India",
+      "Industry": "Manufacturing",
+      "ContactPerson": "John Doe",
+      "Phone": "+91 9876543210",
+      "GSTRegistrationType": "Regular Taxpayer",
+      "Status": "Active"
+    },
+    {
+      "Organizations": "XYZ Solutions",
+      "Location": "New York, USA",
+      "Industry": "IT Services",
+      "ContactPerson": "John Doe",
+      "Phone": "+1 123-456-7890",
+      "GSTRegistrationType": "N/A (USA-based)",
+      "Status": "Pending"
+    },
+    {
+      "Organizations": "Global Exports Ltd",
+      "Location": "London, UK",
+      "Industry": "Export-Import",
+      "ContactPerson": "John Doe",
+      "Phone": "+44 20 7946 0958",
+      "GSTRegistrationType": "N/A (UK-based)",
+      "Status": "inactive"
+    },
+    {
+      "Organizations": "Sunrise Traders",
+      "Location": "Delhi, India",
+      "Industry": "Retail",
+      "ContactPerson": "John Doe",
+      "Phone": "+91 9876567891",
+      "GSTRegistrationType": "Composition Scheme",
+      "Status": "Pending"
+    },
+    {
+      "Organizations": "Blue Horizons Corp",
+      "Location": "Sydney, Australia",
+      "Industry": "Hospitality",
+      "ContactPerson": "John Doe",
+      "Phone": "+61 400 123 456",
+      "GSTRegistrationType": "N/A (Australia-based)",
+      "Status": "inactive"
+    },
+    {
+      "Organizations": "Bright Horizons Corp",
+      "Location": "Mumbai, India",
+      "Industry": "IT Services",
+      "ContactPerson": "John Doe",
+      "Phone": "+91 9876543210",
+      "GSTRegistrationType": "Regular Taxpayer",
+      "Status": "Pending"
+    },
+    {
+      "Organizations": "globule Traders",
+      "Location": "New York, USA",
+      "Industry": "yarn traders",
+      "ContactPerson": "John Doe",
+      "Phone": "+1 123-456-7890",
+      "GSTRegistrationType": "N/A (USA-based)",
+      "Status": "active"
+    },
+    {
+      "Organizations": "dome Jewellery ",
+      "Location": "Surat, India",
+      "Industry": "Jewellery manufacturers",
+      "ContactPerson": "John Doe",
+      "Phone": "+91 9876543210",
+      "GSTRegistrationType": "Regular Taxpayer",
+      "Status": "active"
+    },
+    {
+      "Organizations": "XYZ Solutions",
+      "Location": "New York, USA",
+      "Industry": "IT Services",
+      "ContactPerson": "John Doe",
+      "Phone": "+1 123-456-7890",
+      "GSTRegistrationType": "N/A (USA-based)",
+      "Status": "Pending"
+    },
+    {
+      "Organizations": "Global Exports Ltd",
+      "Location": "London, UK",
+      "Industry": "Export-Import",
+      "ContactPerson": "John Doe",
+      "Phone": "+44 20 7946 0958",
+      "GSTRegistrationType": "N/A (UK-based)",
+      "Status": "inactive"
+    },
+    {
+      "Organizations": "Sunrise Traders",
+      "Location": "Delhi, India",
+      "Industry": "Retail",
+      "ContactPerson": "John Doe",
+      "Phone": "+91 9876567891",
+      "GSTRegistrationType": "Composition Scheme",
+      "Status": "Pending"
+    },
+    {
+      "Organizations": "Blue Horizons Corp",
+      "Location": "Sydney, Australia",
+      "Industry": "Hospitality",
+      "ContactPerson": "John Doe",
+      "Phone": "+61 400 123 456",
+      "GSTRegistrationType": "N/A (Australia-based)",
+      "Status": "inactive"
+    },
+    {
+      "Organizations": "Bright Horizons Corp",
+      "Location": "Mumbai, India",
+      "Industry": "IT Services",
+      "ContactPerson": "John Doe",
+      "Phone": "+91 9876543210",
+      "GSTRegistrationType": "Regular Taxpayer",
+      "Status": "Pending"
+    },
+    {
+      "Organizations": "globule Traders",
+      "Location": "New York, USA",
+      "Industry": "yarn traders",
+      "ContactPerson": "John Doe",
+      "Phone": "+1 123-456-7890",
+      "GSTRegistrationType": "N/A (USA-based)",
+      "Status": "active"
+    }
+  ],
+  "Organization": [
+    {
+      "Id": "Company",
+      "Type": "Company"
+    },
+    {
+      "Id": "Manufacture",
+      "Type": "Manufacture"
+    },
+    {
+      "Id": "Job Worker",
+      "Type": "Job Worker"
+    },
+    {
+      "Id": "Professional / Service Provide",
+      "Type": "Professional / Service Provide"
+    }
+  ],
+  "Industry": [
+    {
+      "Id": "Manufacturing",
+      "Type": "Manufacturing"
+    },
+    {
+      "Id": "Textiles Weaving",
+      "Type": "Textiles Weaving"
+    },
+    {
+      "Id": "Textiles Manufacture",
+      "Type": "Textiles Manufacture"
+    },
+    {
+      "Id": "Textiles Traders",
+      "Type": "Textiles Traders"
+    },
+    {
+      "Id": "Garment Stitching",
+      "Type": "Garment Stitching"
+    },
+    {
+      "Id": "Process House",
+      "Type": "Process House"
+    },
+    {
+      "Id": "Digital Printing",
+      "Type": "Digital Printing"
+    },
+    {
+      "Id": "Yarn Manufacture",
+      "Type": "Yarn Manufacture"
+    },
+    {
+      "Id": "Yarn Traders",
+      "Type": "Yarn Traders"
+    },
+    {
+      "Id": "Yarn Job Worker",
+      "Type": "Yarn Job Worker"
+    },
+    {
+      "Id": "Embroidery",
+      "Type": "Embroidery"
+    },
+    {
+      "Id": "Jewellery  Manufacture",
+      "Type": "Jewellery  Manufacture"
+    },
+    {
+      "Id": "Jewellery  Traders",
+      "Type": "Jewellery  Traders"
+    },
+    {
+      "Id": "Jewellery  Job Worker",
+      "Type": "Jewellery  Job Worker"
+    },
+    {
+      "Id": "Diamond Manufacturing",
+      "Type": "Diamond Manufacturing"
+    },
+    {
+      "Id": "Diamond Traders",
+      "Type": "Diamond Traders"
+    },
+    {
+      "Id": "Labgrown Diamond Manufacture",
+      "Type": "Labgrown Diamond Manufacture"
+    },
+    {
+      "Id": "Diamond Traders",
+      "Type": "Diamond Traders"
+    },
+    {
+      "Id": "Supper Stores",
+      "Type": "Supper Stores"
+    },
+    {
+      "Id": "FMCG Store",
+      "Type": "FMCG Store"
+    },
+    {
+      "Id": "Pharmacy",
+      "Type": "Pharmacy"
+    }
+  ],
+  "Country": [
+    {
+      "Id": "73454cd7-fcf3-4cd6-9f1c-0278cbb22633",
+      "Type": "India"
+    },
+    {
+      "Id": "73454cd7-fcf3-4cd6-9f1c-0278cbb22634",
+      "Type": "United States"
+    },
+    {
+      "Id": "73454cd7-fcf3-4cd6-9f1c-0278cbb22635",
+      "Type": "United Kingdom"
+    }
+  ],
+  "Language": [
+    {
+      "Id": "8a3ec8a1-564c-4269-897d-83d98cffff8a",
+      "Type": "English"
+    },
+    {
+      "Id": "8a3ec8a1-564c-4269-897d-83d98cffff8b",
+      "Type": "Spanish"
+    },
+    {
+      "Id": "8a3ec8a1-564c-4269-897d-83d98cffff8c",
+      "Type": "French"
+    }
+  ],
+  "State": [
+    {
+      "Id": "550e8400-e29b-41d4-a716-446655440001",
+      "Type": "California"
+    },
+    {
+      "Id": "550e8400-e29b-41d4-a716-446655440002",
+      "Type": "Texas"
+    },
+    {
+      "Id": "550e8400-e29b-41d4-a716-446655440003",
+      "Type": "Florida"
+    }
+  ],
+  "City": [
+    {
+      "Id": "a60e8400-e29b-41d4-a716-446655440001",
+      "Type": "Mumbai"
+    },
+    {
+      "Id": "a60e8400-e29b-41d4-a716-446655440002",
+      "Type": "Tokyo"
+    },
+    {
+      "Id": "a60e8400-e29b-41d4-a716-446655440003",
+      "Type": "New York"
+    }
+  ],
+  "PANOrganization": [
+    {
+      "Id": "Individual",
+      "Type": "Individual"
+    },
+    {
+      "Id": "Partnership Firm",
+      "Type": "Partnership Firm"
+    },
+    {
+      "Id": "Company",
+      "Type": "Company"
+    },
+    {
+      "Id": "Hindu Undivided Family (HUF)",
+      "Type": "Hindu Undivided Family (HUF)"
+    },
+    {
+      "Id": "Association of Persons (AOP)",
+      "Type": "Association of Persons (AOP)"
+    },
+    {
+      "Id": "Trust",
+      "Type": "Trust"
+    },
+    {
+      "Id": "Body of Individuals (BOI)",
+      "Type": "Body of Individuals (BOI)"
+    },
+    {
+      "Id": "Government",
+      "Type": "Government"
+    },
+    {
+      "Id": "Local Authority",
+      "Type": "Local Authority"
+    },
+    {
+      "Id": "Artificial Juridical Person",
+      "Type": "Artificial Juridical Person"
+    },
+    {
+      "Id": "Limited Liability Partnership (LLP)",
+      "Type": "Limited Liability Partnership (LLP)"
+    }
+  ],
+  "Currency": [
+    {
+      "Id": "770e8400-e29b-41d4-a716-446655440001",
+      "Type": "Indian Rupee (INR)"
+    },
+    {
+      "Id": "770e8400-e29b-41d4-a716-446655440002",
+      "Type": "Dollar (USD)"
+    },
+    {
+      "Id": "770e8400-e29b-41d4-a716-446655440003",
+      "Type": "Euro (EUR)"
+    }
+  ],
+  "GSTType": [
+    {
+      "Id": "Regular Taxpayer",
+      "Type": "Regular Taxpayer"
+    },
+    {
+      "Id": "Composition Scheme",
+      "Type": "Composition Scheme"
+    },
+    {
+      "Id": "Casual Taxable Person",
+      "Type": "Casual Taxable Person"
+    }
+  ],
+  "cardData": [
+    {
+      "Id": "Task 1",
+      "Title": "Task - 29001",
+      "Status": "Open",
+      "Summary": "Analyze customer requirements.",
+      "Priority": "High",
+      "Tags": "Bug, Release Bug",
+      "RankId": 1,
+      "Assignee": "Nancy Davloio"
+    },
+    {
+      "Id": "Task 2",
+      "Title": "Task - 29002",
+      "Status": "InProgress",
+      "Summary": "Add responsive support to applicaton",
+      "Priority": "Low",
+      "Tags": "Story, Kanban",
+      "RankId": 1,
+      "Assignee": "Andrew Fuller"
+    },
+    {
+      "Id": "Task 3",
+      "Title": "Task - 29004",
+      "Status": "Open",
+      "Summary": "Fix the issues reported in the IE browser.",
+      "Priority": "High",
+      "Tags": "Bug, Customer",
+      "RankId": 3,
+      "Assignee": "Andrew Fuller"
+    },
+    {
+      "Id": "Task 4",
+      "Title": "Task - 29009",
+      "Status": "Review",
+      "Summary": "API Improvements.",
+      "Priority": "Critical",
+      "Tags": "Bug, Customer",
+      "RankId": 2,
+      "Assignee": "Nancy Davloio"
+    },
+    {
+      "Id": "Task 5",
+      "Title": "Task - 29016",
+      "Status": "Review",
+      "Summary": "Fix the issues reported in IE browser.",
+      "Priority": "High",
+      "Tags": "Bug, Customer",
+      "RankId": 3,
+      "Assignee": "Andrew Fuller"
+    },
+    {
+      "Id": "Task 6",
+      "Title": "Task - 29018",
+      "Status": "Close",
+      "Summary": "Arrange web meeting with customer to get login page requirement.",
+      "Priority": "High",
+      "Tags": "Feature",
+      "RankId": 1,
+      "Assignee": "Andrew Fuller"
+    },
+    {
+      "Id": "Task 7",
+      "Title": "Task - 29024",
+      "Status": "Review",
+      "Summary": "Check login page validation.",
+      "Priority": "Low",
+      "Tags": "Story",
+      "RankId": 5,
+      "Assignee": "Nancy Davloio"
+    },
+    {
+      "Id": "Task 8",
+      "Title": "Task - 29025",
+      "Status": "Close",
+      "Summary": "Add input validation for editing.",
+      "Priority": "Critical",
+      "Tags": "Bug, Breaking Issue",
+      "RankId": 5,
+      "Assignee": "Nancy Davloio"
+    },
+    {
+      "Id": "Task 9",
+      "Title": "Task - 29026",
+      "Status": "InProgress",
+      "Summary": "Improve performance of editing functionality.",
+      "Priority": "Critical",
+      "Tags": "Bug, Customer",
+      "RankId": 2,
+      "Assignee": "Nancy Davloio"
+    },
+    {
+      "Id": "Task 10",
+      "Title": "Task - 29033",
+      "Status": "Open",
+      "Summary": "Arrange web meeting with customer to get editing requirements",
+      "Priority": "Critical",
+      "Tags": "Story, Improvement",
+      "RankId": 6,
+      "Assignee": "Nancy Davloio"
+    },
+    {
+      "Id": "Task 11",
+      "Title": "Task - 29035",
+      "Status": "Close",
+      "Summary": "Fix the issues reported in Safari browser.",
+      "Priority": "High",
+      "Tags": "Bug",
+      "RankId": 6,
+      "Assignee": "Nancy Davloio"
+    }
+  ]
+}

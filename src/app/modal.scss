@@ -1,0 +1,28 @@
+.common_modal_div .modal-content {
+    border: 1px solid #F2F2F2;
+    box-shadow: 5px 4px 32px 0px #ACACAC12;
+    border-radius: 10px;
+    padding: 30px;
+}
+.modal-w600 {
+    max-width: 600px;
+}
+.modal_header_sec {
+    border-bottom: 1px solid #25252526;
+    padding: 0px 0px 16px 0px;
+}
+.modal_title_text {
+   color: var( --primary-color-theme);
+   font-size: 18px;
+   line-height: 22px;
+   font-weight: 600;
+   margin-bottom: 0px;
+}
+.modal_body_sec {
+    padding: 24px 0px;
+}
+.modal_footer_sec {
+    padding: 0px;
+    border-top: 0px;
+    column-gap: 14px;
+}

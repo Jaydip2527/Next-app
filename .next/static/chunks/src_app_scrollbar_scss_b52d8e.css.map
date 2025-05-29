@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/src/app/scrollbar.scss.css"],"sourcesContent":["::-webkit-scrollbar{width:5px;height:5px}::-webkit-scrollbar-track{background:#f1f1f1}::-webkit-scrollbar-thumb{background:#d9d9d9}::-webkit-scrollbar-thumb:hover{background:#555}.organization_scroll_bar::-webkit-scrollbar{width:1px}.organization_scroll_bar::-webkit-scrollbar-track{background:#f3f4f6}.organization_scroll_bar::-webkit-scrollbar-thumb{background:#f3f4f6}.organization_scroll_bar::-webkit-scrollbar-thumb:hover{background:#f3f4f6}"],"names":[],"mappings":"AAAA;;;;;AAAyC;;;;AAA6C;;;;AAA6C;;;;AAAgD;;;;AAAsD;;;;AAAqE;;;;AAAqE"}},
+    {"offset": {"line": 33, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
